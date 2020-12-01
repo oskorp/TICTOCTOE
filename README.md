@@ -1,2 +1,2 @@
 # TICTOCTOE
-TICTOCTOE basic gamefor college Mini-project
+TICTOCTOE basic game for college Mini-project
